@@ -1,7 +1,7 @@
 Pengalaman Belajar di Dicoding
 ==
 
--10 September 2024-
+-10 September 2024-  
 Materi yang dipelajari:
 - *Memahami Kebutuhan Aplikasi* : Belajar teori dan metodologi dalam memahami kebutuhan aplikasi dari sisi pengguna beserta dari sisi spesifikasi teknis aplikasi. Implementasi keterampilan ke dalam studi kasus membuat kebutuhan aplikasi dari sisi pengguna maupun dari sisi spesifikasi teknis. Belajar tips sikap kerja saat meneliti, menganalisis, dan mengevaluasi kebutuhan aplikasi. (49 menit)
 - *Perencanaan Modifikasi Aplikasi* : Belajar teori dan metodologi dalam pembuatan persyaratan kebutuhan aplikasi, dalam memahami cara aplikasi bekerja, dan dalam mengerti panduan diagram alur. Implementasi keterampilan ke dalam studi kasus membuat persyaratan kebutuhan aplikasi,Halaman 3 memahami cara aplikasi berjalan, dan membuat diagram alur. Belajar sikap kerja ketika kolaborasi perencanaan aplikasi dalam sebuah tim. (1 jam 19 menit)
